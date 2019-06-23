@@ -1,0 +1,1 @@
+Comme vous avez pu le constater, le GRAND "bogue de l'an 2000" ne s'est pas produit.

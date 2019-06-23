@@ -1,0 +1,1 @@
+Cette mesure permet d’éviter des regroupements trop importants.

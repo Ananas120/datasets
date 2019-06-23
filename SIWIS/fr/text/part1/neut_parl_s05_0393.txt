@@ -1,0 +1,1 @@
+Le fichier positif provoquerait ainsi la situation inverse de celle qu’il recherche.

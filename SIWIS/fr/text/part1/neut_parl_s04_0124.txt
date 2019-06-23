@@ -1,0 +1,1 @@
+Une entreprise qui échoue ne doit pas figurer sur un fichier.

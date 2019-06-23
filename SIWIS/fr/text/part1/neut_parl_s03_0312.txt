@@ -1,0 +1,1 @@
+Se pose enfin le problème du hors-champ, qui n’est pas pris en compte par le texte.

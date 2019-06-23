@@ -1,0 +1,1 @@
+Un point donnera automatiquement lieu à deux points.
